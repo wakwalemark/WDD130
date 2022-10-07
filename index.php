@@ -1,4 +1,3 @@
 <?php
-hello
-include("wwr/index.html")
+include("wwr/index.html");
 ?>
